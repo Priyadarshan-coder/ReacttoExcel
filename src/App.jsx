@@ -29,7 +29,7 @@ const App = () => {
                       scope="col"
                       className="text-sm font-medium text-white px-6 py-4"
                     >
-                      #
+                      Sl_No.
                     </th>
                     <th
                       scope="col"
